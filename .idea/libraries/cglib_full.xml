@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cglib-full">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cglib-full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
